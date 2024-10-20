@@ -38,7 +38,8 @@ body {
 }
 
 .one {
-  font-size: 4.5rem;
+  /* 4.5 rem default */
+  font-size: 4rem;
 }
 
 .one > img {
@@ -103,8 +104,7 @@ body {
 }
 
 .idea-5 span,
-.idea-6 span,
-.wish-hbd span {
+.idea-6 span {
   display: inline-block;
 }
 
